@@ -212,46 +212,52 @@ nav ul li a:hover {
 }
 
 .skills_html {
-    width: 80%;
+    width: 90%;
 }
 
 .skills_css {
-    width: 70%;
+    width: 90%;
 }
 
 .skills_js {
-    width: 30%;
+    width: 60%;
 }
 
 .skills_react {
-    width: 0%;
+    width: 60%;
 }
 
-.skills_py {
+.skills_Android {
+    width: 80%;
+}
+
+.skills_vs {
     width: 90%;
 }
 
-.skills_c {
-    width: 90%;
-}
-
-.skills_php {
-    width: 0%;
+.skills_git {
+    width: 60%;
 }
 
 .skills_sql {
-    width: 70%;
+    width: 80%;
+}
+
+.skills_reactnative {
+    width: 60%;
+}
+
+.skills_flutter{
+    width: 40%;
 }
 
 .skills_figma {
-    width: 50%;
+    width: 70%;
 }
 .skills_canva {
-    width: 50%;
+    width: 90%;
 }
-.skills_abodexd {
-    width: 0%;
-}
+
 
 .skills_close .skills_list {
     height: 0;
